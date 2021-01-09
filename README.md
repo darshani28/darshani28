@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Darshani Here! Follow me on ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F_darshani_)
+Darshani Here!
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F_darshani_) (@_darshani_)[https://twitter.com/_darshani_]
 
 <!--
 **darshani28/darshani28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
